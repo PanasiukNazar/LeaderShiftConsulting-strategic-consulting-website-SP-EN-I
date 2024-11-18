@@ -1,1 +1,1 @@
-# StrategicPath-strategic-consulting-website-SP-EN-I
+# LeaderShiftConsulting-strategic-consulting-website-SP-EN-I

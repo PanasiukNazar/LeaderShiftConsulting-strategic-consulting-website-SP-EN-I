@@ -382,6 +382,13 @@ body:after {
     left: 0;
     top: -5px;
 }
+
+@media (max-width: 772px) {
+    .site-navbar .site-logo .h2 {
+        font-size: 1.5rem;
+    }
+}
+
 .site-navbar .site-navigation .site-menu {
     margin-bottom: 0;
 }
